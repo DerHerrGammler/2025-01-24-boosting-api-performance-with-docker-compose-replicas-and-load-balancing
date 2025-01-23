@@ -1,6 +1,8 @@
-# 2025-01-24-boosting-api-performance-with-docker-compose-replicas-and-load-balancing
+# 2025-01-24-boosting-api-performance-with-docker-compose-replicas
 
-Example repository for this blog post: https://herold.solutions/blog/2025-01-24-boosting-api-performance-with-docker-compose-replicas-and-load-balancing
+Example repository for this blog post: https://herold.solutions/blog/2025-01-24-boosting-api-performance-with-docker-compose-replicas
+
+## Local Test
 
 Start the pre-replica docker compose with  
 `docker compose -f docker-compose.pre-replica.yml up`
